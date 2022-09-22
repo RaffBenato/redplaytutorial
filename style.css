@@ -52,7 +52,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .menu.open {
@@ -81,7 +81,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .headerp {
@@ -255,7 +255,7 @@ footer {
   }
 
   .headerp {
-    margin-top: 80px;
+    margin-top: 10px;
     font-size: 1.5rem;
   }
 
@@ -265,6 +265,19 @@ footer {
 }
 
 @media only screen and (max-width: 850px) {
+  .burger-menu,
+  .burger-cross {
+    width: 20%;
+  }
+
+  .logo-menu {
+    width: 37%;
+  }
+
+  .headerp {
+    line-height: 1.5;
+  }
+
   .planos-link {
     font-size: 1rem;
   }
