@@ -288,6 +288,10 @@ footer {
     line-height: 1.5;
   }
 
+  .img-mob-hidden {
+    display: none;
+  }
+
   .planos-link {
     font-size: 1rem;
   }
