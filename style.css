@@ -291,7 +291,7 @@ footer {
     flex-direction: column;
   }
   .planos-link {
-    width: 80%;
+    width: 90%;
     font-size: 1rem;
     margin-bottom: 20px;
   }
@@ -301,6 +301,6 @@ footer {
   }
 
   .instalar-link {
-    width: 80%;
+    width: 90%;
   }
 }
