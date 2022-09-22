@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
 
 body {
@@ -255,7 +254,7 @@ footer {
   }
 
   .headerp {
-    margin-top: 10px;
+    margin-top: 80px;
     font-size: 1.5rem;
   }
 
@@ -284,7 +283,7 @@ footer {
   }
 
   .headerp {
-    margin-top: 50px;
+    margin-top: 80px;
     line-height: 1.5;
   }
 
