@@ -265,6 +265,10 @@ footer {
 }
 
 @media only screen and (max-width: 850px) {
+  .menubar {
+    padding: 0 10px;
+  }
+
   .burger-menu,
   .burger-cross {
     width: 20%;
@@ -275,6 +279,7 @@ footer {
   }
 
   .headerp {
+    margin-top: 50px;
     line-height: 1.5;
   }
 
