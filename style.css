@@ -269,6 +269,11 @@ footer {
     padding: 0 10px;
   }
 
+  .menu-item {
+    margin-right: 25px;
+    margin-top: 0px;
+  }
+
   .burger-menu,
   .burger-cross {
     width: 20%;
